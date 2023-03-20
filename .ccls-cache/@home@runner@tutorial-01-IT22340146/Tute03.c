@@ -14,6 +14,7 @@ sum = 1+2+3+...+10 = 55 */
 #include <stdio.h>
 int main() {
   printf("gg");
-
+  
   return 0;
 }
+
