@@ -1,4 +1,4 @@
-/*Exercise 04 - Functions
+/*Exercise0 04 - Functions
 
 Implement the three functions minimum(), maximum() and multiply() below the main() function.
 
